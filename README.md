@@ -1,5 +1,5 @@
-# Readable Password
-This password generator generates a easy-to-remember readable pronounceable passwords with password standards considerations
+# Readable & Pronounceable Password Generator
+This password generator generates a easy-to-remember, readable & pronounceable passwords with password standards considerations
 
 ## Installation
 ```
